@@ -5,7 +5,11 @@
     box-sizing: border-box;
 }
 
-.box{
-    flex-direction: row;
+.cajas{
+    background: cadetblue;
+}
 
+.box{
+    display: flex;
+    flex-direction: row;
 }
